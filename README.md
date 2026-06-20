@@ -5,7 +5,7 @@ Backend Developer focused on the **JavaScript ecosystem**, building scalable and
 I’m currently in a learning-to-production phase, strengthening my backend engineering skills by building real projects, collaborating on systems, and gradually moving toward production-ready architecture.
 
 
-I’ve successfully shipped a public personal finance manager (**[TrackFinan](https://github.com/JhonMarioA/TrackFinanr)**) and I’m currently improving it with new features and better backend architecture. In parallel, I maintain several private mini-projects focused on experimenting with backend design patterns, APIs, and system-level thinking before production use.
+I’ve successfully shipped a public personal finance manager (**[TrackFinan](https://github.com/JhonMarioA/TrackFinan)**) and I’m currently improving it with new features and better backend architecture. In parallel, I maintain several private mini-projects focused on experimenting with backend design patterns, APIs, and system-level thinking before production use.
 
 <br>
 

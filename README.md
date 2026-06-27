@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Jhon Mario</h1>
 
 <p align="center">
-  <strong>Backend Developer focused on the JavaScript ecosystem, building scalable and maintainable systems.</strong>
+  <strong>Systems Engineering student at UTP and Backend Developer focused on the JavaScript ecosystem, building scalable and maintainable systems.</strong>
 </p>
 
 <p align="center">
